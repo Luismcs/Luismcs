@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Luís Simões
 #### Software Developlment
-![Software Developlment]([[https://assetsio.reedpopcdn.com/digitalfoundry-best-mechanical-keyboard-for-gaming-typing-coding-7008-1641577436931.jpg?width=1200&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp](https://media.istockphoto.com/id/1219547646/photo/work-from-home.jpg?s=612x612&w=0&k=20&c=7GnObXcKOj5G-dY0ShgWJEtKlFJgMb64aQKaVYklMGc=)](https://media.istockphoto.com/id/857419338/photo/man-sitting-at-desk-and-working-on-laptop-at-night.jpg?s=612x612&w=0&k=20&c=PljluDRtQ2gTiPf1N2Z0W2p8nvxkXQy0P7NjDp4AYuw=))
+![Software Developlment](https://media.istockphoto.com/id/857419338/photo/man-sitting-at-desk-and-working-on-laptop-at-night.jpg?s=612x612&w=0&k=20&c=PljluDRtQ2gTiPf1N2Z0W2p8nvxkXQy0P7NjDp4AYuw=)
 
 At the moment, studying Programming at ATEC. Currently, I am seeking to improve my soft and programming related skills. I consider myself disciplined. Although I don't have professional experience, I'm always looking for oportunities to challenge myself and apply my knowledge.
 
