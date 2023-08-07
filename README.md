@@ -1,10 +1,10 @@
-### Hi there 👋, Luís Simões
+### Hi there 👋, I'm Luís Simões
 #### Software Developlment
 ![Software Developlment](https://media.istockphoto.com/id/1047259374/photo/programming-source-code-abstract-background.jpg?s=170667a&w=0&k=20&c=9zsEYc4kLRT-S5pe6tHeNSab-3r0RafCxmOgq9fYvyU=)
 
 At the moment, studying Programming at ATEC. Currently, I am seeking to improve my soft and programming related skills. I consider myself disciplined. Although I don't have professional experience, I'm always looking for oportunities to challenge myself and apply my knowledge.
 
-Skills: C++/HTML/CSS
+Skills: C++/HTML/CSS/VitualBox Management
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Software Development at Porto 
