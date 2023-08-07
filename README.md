@@ -14,7 +14,7 @@ Skills: C++/HTML/CSS/VitualBox Management
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luismcs&layout=compact)
 
 <!--
 **Luismcs/Luismcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
