@@ -2,8 +2,7 @@
 #### Software Development
 ![Software Developlment](https://media.istockphoto.com/id/857419338/photo/man-sitting-at-desk-and-working-on-laptop-at-night.jpg?s=612x612&w=0&k=20&c=PljluDRtQ2gTiPf1N2Z0W2p8nvxkXQy0P7NjDp4AYuw=)
 
-At the moment, studying Programming at ATEC. Currently, I am seeking to improve my soft and programming related skills. I consider myself disciplined. Although I don't have professional experience, I'm always looking for oportunities to challenge myself and apply my knowledge.
-
+At the moment, studying Programming at ATEC. Currently, I am seeking to improve my soft and programming related skills. I consider myself disciplined flexible and able to learn from other people. I'm always looking for oportunities to challenge myself, leave my confort zone, and apply my knowledge.
 Skills: C++/HTML/CSS/VitualBox Management
 
 - 🔭 I’m currently working on this page. 
