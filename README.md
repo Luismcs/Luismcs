@@ -10,7 +10,7 @@ Skills: C++/HTML/CSS/VitualBox Management
 - 🌱 I’m currently learning Software Development at Porto 
 
 
-[<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-eqtnv&psig=AOvVaw2u14DOEhNWk4Kj2VdnqhnI&ust=1695127598481000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPCa0cSYtIEDFQAAAAAdAAAAABAE)' alt='github' height='40'>](https://github.com/Luismcs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/lu%C3%ADs-sim%C3%B5es-383bb1260//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Luismcs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/lu%C3%ADs-sim%C3%B5es-383bb1260//)  
 
 
 
