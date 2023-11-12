@@ -7,7 +7,7 @@
 <br>At the moment, I'm studying Programming at ATEC. I am seeking to improve my soft and programming related skills. I consider myself disciplined ,lexible and able to learn from other people. I'm always looking for oportunities to challenge myself, leave my confort zone, and apply my knowledge.<br>
 Overall, I like software developmente either front or back-end.
 
-<h2 color:blue">Skills</h2>
+<h2 color:'blue'>Skills</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="LS-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="LS-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -17,6 +17,10 @@ Overall, I like software developmente either front or back-end.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Luismcs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/lu%C3%ADs-sim%C3%B5es-383bb1260//)  
 
+<h2 color:'blue'>Contact me:</h2>
+<div> 
+  <a href="www.linkedin.com/in/luís-simões-383bb1260" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luismcs&layout=compact)
