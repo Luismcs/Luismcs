@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
+<script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
+
 <h1>### Hi there 👋, I'm Luís Simões</h1>
 
 - 💻 I’m currently learning Software Development at Porto, Portugal<br>
@@ -14,6 +17,7 @@ Overall, I like software developmente either front or back-end.
   <img align="center" alt="LS-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"><br><br>
 </div>
 
+<i class="fa-brands fa-linux"></i>
 
 
 
