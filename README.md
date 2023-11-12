@@ -9,10 +9,9 @@ At the moment, I'm studying Programming at ATEC. Currently, I am seeking to impr
   <img align="center" alt="MJ-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="MJ-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="MJ-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-
-
-   
 </div>
+<br>
+<br>
 
 
 - 🔭 I’m currently working on this page. 
