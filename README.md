@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Luís Simões
+<h1>### Hi there 👋, I'm Luís Simões</h1>
 
 - 💻 I’m currently learning Software Development at Porto<br>
 
@@ -6,7 +6,7 @@
 
 At the moment, I'm studying Programming at ATEC. Currently, I am seeking to improve my soft and programming related skills. I consider myself disciplined flexible and able to learn from other people. I'm always looking for oportunities to challenge myself, leave my confort zone, and apply my knowledge.
 
-<h2 color:'blue'>Skills</h2>
+<h2 color:blue">Skills</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="LS-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="LS-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
