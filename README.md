@@ -17,7 +17,6 @@ At the moment, I'm studying Programming at ATEC. Currently, I am seeking to impr
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Luismcs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/lu%C3%ADs-sim%C3%B5es-383bb1260//)  
-![GitHub Icon](https://your-icon-url.png)
 
 
 
