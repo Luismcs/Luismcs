@@ -1,6 +1,6 @@
 <h1>### Hi there 👋, I'm Luís Simões</h1>
 
-- 💻 I’m currently learning Software Development at Porto, Portugal<br>
+- 💻 I’m currently learning Software Development at Porto, Portugal<br><br>
 
 ![Software Developlment](https://media.istockphoto.com/id/857419338/photo/man-sitting-at-desk-and-working-on-laptop-at-night.jpg?s=612x612&w=0&k=20&c=PljluDRtQ2gTiPf1N2Z0W2p8nvxkXQy0P7NjDp4AYuw=)
 
@@ -14,13 +14,10 @@ Overall, I like software developmente either front or back-end.
   <img align="center" alt="LS-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"><br><br>
 </div>
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Luismcs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/lu%C3%ADs-sim%C3%B5es-383bb1260//)  
-
-<h2 color:'blue'>Contact me:</h2>
+<h2 color:'blue'>Contact me:</h2><br>
 <div> 
   <a href="www.linkedin.com/in/luís-simões-383bb1260" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+</div><br><br>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luismcs&layout=compact)
