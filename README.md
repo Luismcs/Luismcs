@@ -12,7 +12,6 @@ At the moment, I'm studying Programming at ATEC. Currently, I am seeking to impr
 </div>
 
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Software Development at Porto 
 
 
