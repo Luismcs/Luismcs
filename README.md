@@ -1,6 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
-<script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
-
 <h1>### Hi there 👋, I'm Luís Simões</h1>
 
 - 💻 I’m currently learning Software Development at Porto, Portugal<br>
