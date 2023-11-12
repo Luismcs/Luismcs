@@ -6,6 +6,15 @@ At the moment, I'm studying Programming at ATEC. Currently, I am seeking to impr
 
 Skills: C++/HTML/CSS/VitualBox Management
 
+<h2 color:'blue'>Languages</h2>
+<div style="display: inline_block"><br>
+  <img align="center" alt="MJ-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="MJ-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="MJ-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="MJ-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
+
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Software Development at Porto 
 
