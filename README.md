@@ -18,6 +18,8 @@ At the moment, I'm studying Programming at ATEC. Currently, I am seeking to impr
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Luismcs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/lu%C3%ADs-sim%C3%B5es-383bb1260//)  
 
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10.75 20.15v1.7a.25.25 0 0 1-.25.25c-1.74 0-3.13-1.4-3.13-3.14V9.3H5.56a.25.25 0 0 1-.25-.25v-2.2a.25.25 0 0 1 .25-.25h1.06V4.7a8.8 8.8 0 0 1 2.27-.3c4.85 0 8.8 3.95 8.8 8.8 0 4.84-3.95 8.8-8.8 8.8a8.76 8.76 0 0 1-5.8-2.2z"></path></svg>
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luismcs&layout=compact)
