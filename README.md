@@ -1,10 +1,11 @@
 <h1>### Hi there 👋, I'm Luís Simões</h1>
 
-- 💻 I’m currently learning Software Development at Porto<br>
+- 💻 I’m currently learning Software Development at Porto, Portugal<br>
 
 ![Software Developlment](https://media.istockphoto.com/id/857419338/photo/man-sitting-at-desk-and-working-on-laptop-at-night.jpg?s=612x612&w=0&k=20&c=PljluDRtQ2gTiPf1N2Z0W2p8nvxkXQy0P7NjDp4AYuw=)
 
-At the moment, I'm studying Programming at ATEC. Currently, I am seeking to improve my soft and programming related skills. I consider myself disciplined flexible and able to learn from other people. I'm always looking for oportunities to challenge myself, leave my confort zone, and apply my knowledge.
+<br>At the moment, I'm studying Programming at ATEC. I am seeking to improve my soft and programming related skills. I consider myself disciplined ,lexible and able to learn from other people. I'm always looking for oportunities to challenge myself, leave my confort zone, and apply my knowledge.<br>
+Overall, I like software developmente either front or back-end.
 
 <h2 color:blue">Skills</h2>
 <div style="display: inline_block"><br>
