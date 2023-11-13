@@ -1,4 +1,4 @@
-<h1>### Hi there 👋, I'm Luís Simões</h1>
+<h1>Hi there 👋, I'm Luís Simões</h1>
 
 - 💻 I’m currently learning Software Development at Porto, Portugal<br><br>
 
