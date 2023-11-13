@@ -13,7 +13,7 @@ Overall, I like software developmente either front or back-end.
   <img align="center" alt="LS-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="LS-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="LS-BOOTSTRAP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg">
-  <img align="center" alt="LS-LINUX" height="30" width="40" src="https://raw.githubusercontent.com/devicon/master/icons/linux/linux-original.svg"><br><br>
+  <img align="center" alt="LS-LINUX" height="30" width="40" src="icons/linux/linux-original.svg"><br><br>
 
 </div>
 
