@@ -19,7 +19,7 @@ Overall, I like software developmente either front or back-end.
 
 <h2 color:'blue'>Contact me:</h2><br>
 <div> 
-  <a href="www.linkedin.com/in/luís-simões-383bb1260" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/luís-simões-383bb1260" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div><br><br>
 
 [<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/luís-simões-383bb1260)
