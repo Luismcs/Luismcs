@@ -22,6 +22,7 @@ Overall, I like software developmente either front or back-end.
   <a href="www.linkedin.com/in/luís-simões-383bb1260" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div><br><br>
 
+[<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">](www.linkedin.com/in/luís-simões-383bb1260)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luismcs&layout=compact)
 
