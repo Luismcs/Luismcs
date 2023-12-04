@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Luís Simões</h1>
 
-- 💻 I’m currently learning Specialist Technician in Technologies and Programming of Information Systems (Level 5) at ATEC at Porto, Portugal<br><br>
+<br>- 💻 I’m currently learning Specialist Technician in Technologies and Programming of Information Systems (Level 5) at ATEC at Porto, Portugal<br><br>
 
 ![Software Developlment](https://media.istockphoto.com/id/857419338/photo/man-sitting-at-desk-and-working-on-laptop-at-night.jpg?s=612x612&w=0&k=20&c=PljluDRtQ2gTiPf1N2Z0W2p8nvxkXQy0P7NjDp4AYuw=)
 
