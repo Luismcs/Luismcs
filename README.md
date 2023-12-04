@@ -1,4 +1,4 @@
-<h1>Hi there 👋, I'm Luís Simões</h1>
+<h1 align="center">Hi there 👋, I'm Luís Simões</h1>
 
 - 💻 I’m currently learning Specialist Technician in Technologies and Programming of Information Systems (Level 5) at ATEC at Porto, Portugal<br><br>
 
