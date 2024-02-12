@@ -12,15 +12,14 @@
   <img align="center" alt="LS-C#" height="90" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="LS-LINUX" height="90" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg">
   <img align="center" alt="LS-LINUX" height="90" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"><br><br>
-
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luismcs&layout=compact)
 
 <h2 color:'blue'>Contact me:</h2><br>
 
 <a target="_blank">[<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">](https://www.linkedin.com/in/luís-simões-383bb1260)</a>
 <br><br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luismcs&layout=compact)
 
 <!--
 **Luismcs/Luismcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
