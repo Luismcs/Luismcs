@@ -19,7 +19,7 @@
   <img align="center" alt="LS-LINUX" height="90" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"><br><br>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)
+![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazr](https://github-readme-stats.vercel.app/api/top-langs/?username=Luismcs&layout=compact)&hide=css)
 
 <h2 color:'blue'>Contact me:</h2><br>
 
