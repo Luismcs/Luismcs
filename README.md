@@ -19,7 +19,7 @@
   <img align="center" alt="LS-LINUX" height="90" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"><br><br>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luismcs&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)
 
 <h2 color:'blue'>Contact me:</h2><br>
 
@@ -28,6 +28,9 @@
 
 
 <!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luismcs&layout=compact)
+
+
 **Luismcs/Luismcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
