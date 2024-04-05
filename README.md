@@ -23,8 +23,15 @@
 
 <h2 color:'blue'>Contact me:</h2><br>
 
-<a target="_blank">[<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">](https://www.linkedin.com/in/luís-simões-383bb1260)</a>
-<a href="https://luismcs.github.io/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" height="30" width="40" /></a>
+<div style="display: flex; flex-direction: column; align-items: center;">
+    <a target="_blank" href="https://www.linkedin.com/in/luís-simões-383bb1260">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 10px;" />
+    </a>
+    <a href="https://luismcs.github.io/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" height="30" width="40" style="margin-bottom: 10px;" />
+    </a>
+</div>
+
 <br><br>
 
 
