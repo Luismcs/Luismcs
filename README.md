@@ -20,6 +20,7 @@
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luismcs&&hide=css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luismcs&&hide=css&layout=compact)
 
 <h2 color:'blue'>Contact me:</h2><br>
 
