@@ -25,7 +25,6 @@
 
 <a target="_blank">[<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">](https://www.linkedin.com/in/luís-simões-383bb1260)</a>
 <a href="https://luismcs.github.io/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" height="30" width="40" /></a>
-</p>
 <br><br>
 
 
