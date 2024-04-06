@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋, I'm Luís Simões</h1>
 
 <h3 align="center">At the moment, I'm studying Programming at ATEC. I am seeking to improve my soft and programming related skills. I consider myself disciplined ,flexible and able to learn from other people. I'm always looking for opportunities  to challenge myself, leave my confort zone, and apply my knowledge.<h3><br>
-<h3 align="center">Overall, I like software developmente either front or back-end.</h3>
+<h3 align="center">Overall, I like software development either front or back-end.</h3>
 
 <h2 color:'blue'>Skills</h2>
 <div style="display: inline_block"><br>
