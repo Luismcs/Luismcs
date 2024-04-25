@@ -15,8 +15,7 @@
   <img align="center" alt="LS-C#" height="90" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="LS-C#" height="90" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
   <img align="center" alt="LS-C#" height="90" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="LS-C#" height="90" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg
-">
+  <img align="center" alt="LS-C#" height="90" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
 
   <img align="center" alt="LS-LINUX" height="90" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg">
   <img align="center" alt="LS-LINUX" height="90" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"><br><br>
