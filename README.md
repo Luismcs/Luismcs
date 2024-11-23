@@ -29,7 +29,7 @@
 <h2 color:'blue'>Contact me:</h2><br>
 
 <div style="display: flex; flex-direction: column; align-items: center;">
-    <a target="_blank" href="https://www.linkedin.com/in/luís-simões-383bb1260">
+    <a target="_blank" href="https://www.linkedin.com/in/luis-simoes-developer/">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 10px;" />
     </a>
     <a href="https://luismcs.github.io/" target="_blank">
