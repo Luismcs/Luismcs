@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi there 👋, I'm Luís Simões</h1>
 
-<h3 align="center">At the moment, I'm studying Programming at ATEC. I am seeking to improve my soft and programming related skills. I consider myself disciplined ,flexible and able to learn from other people. I'm always looking for opportunities  to challenge myself, leave my confort zone, and apply my knowledge.<h3><br>
+<h3 align="center">After completing a Level 4 Technical Course in Computer Management and Programming Systems, I successfully graduated from Level 5 at ATEC, gaining expertise in object-oriented programming, back-end development, and database management. <h3><br>
+<h3 align="center">Recently I completed an internship at HumanIt, where I was part of the Java Academy. During this time, I developed solutions using Java, enhanced my skills with frameworks like Spring, working with microsservices, RestAPIs and collaborated on challenging projects that allowed me to grow as a developer.<h3><br>
 <h3 align="center">Overall, I like software development either front or back-end.</h3>
 
 <h2 color:'blue'>Skills</h2>
